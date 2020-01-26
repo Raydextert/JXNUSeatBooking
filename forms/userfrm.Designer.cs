@@ -1,4 +1,4 @@
-﻿namespace StudyingApp.forms
+﻿namespace SeatBooking.forms
 {
     partial class userfrm
     {

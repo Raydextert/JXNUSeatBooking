@@ -1,4 +1,4 @@
-﻿namespace StudyingApp
+﻿namespace SeatBooking
 {
     partial class logfrm
     {

@@ -13,8 +13,8 @@ using System.Web;
 using System.Web.Script.Serialization;
 using System.Net;
 using System.IO;
-using StudyingApp.forms;
-namespace StudyingApp
+using SeatBooking.forms;
+namespace SeatBooking
 {
     public partial class logfrm :BaseForm 
     {

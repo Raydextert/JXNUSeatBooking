@@ -14,7 +14,7 @@ using System.Web.Script.Serialization;
 using System.Net;
 using System.IO;
 using System.Threading;
-namespace StudyingApp.forms
+namespace SeatBooking.forms
 { 
 
     public delegate string [] PostParamsEvthanlder();

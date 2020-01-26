@@ -13,7 +13,7 @@ using System.Web;
 using System.Web.Script.Serialization;
 using System.Net;
 using System.IO;
-namespace StudyingApp.forms
+namespace SeatBooking.forms
 {
     public partial class userfrm : BaseForm
     {
